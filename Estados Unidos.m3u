@@ -2501,3 +2501,45 @@ https://livestream.telvue.com/yumaaz2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playl
 #EXTINF:-1  tvg-id="ZoomNews.us" tvg-logo="https://t4.ftcdn.net/jpg/03/88/22/21/360_F_388222175_D6PTsMoUyegpPJ63zvkecPsZAttc95mD.jpg" group-title="News",Zoom News
 #EXTVLCOPT:http-referrer=https://zoomnews.info/
 https://live.zoomnews.info/live/Zoom_playlist.m3u8
+
+#EXTINF:-1 tvg-name="The Game (1997)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/us1lgJerKgrDqfGyMMwM9m9UIMj.jpg" group-title="ESTRENOS 2023",The Game (1997)
+http://home-playtv.com:80/movie/Franciscoca2/SFZWC/466800.mkv
+#EXTINF:-1 tvg-name="Enchufe sin visa (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aNmPPQqIqZ2h1wqpervJUfGKtzc.jpg" group-title="ESTRENOS 2023",Enchufe sin visa (2016)
+http://home-playtv.com:80/movie/Franciscoca2/SFZWC/466801.mkv
+#EXTINF:-1 tvg-name="La cabaña siniestra (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r07nxQUDrCUeg4lNmkY1YJrivzl.jpg" group-title="ESTRENOS 2023",La cabaña siniestra (2020)
+http://home-playtv.com:80/movie/Franciscoca2/SFZWC/466802.mkv
+#EXTINF:-1 tvg-name="Zoey's Extraordinary Christmas (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDuQ4pX2FZe3tYdR4urm1HgGyXy.jpg" group-title="ESTRENOS 2023",Zoey's Extraordinary Christmas (2021)
+http://home-playtv.com:80/movie/Franciscoca2/SFZWC/466803.mkv
+#EXTINF:-1 tvg-name="Un pequeño cambio (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Ei0pNUOnyhXBsY9v30XPpypZcc.jpg" group-title="ESTRENOS 2023",Un pequeño cambio (2010)
+http://home-playtv.com:80/movie/Franciscoca2/SFZWC/466804.mkv
+#EXTINF:-1 tvg-name="M3GAN (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tv3Yjn78U8hFGFrkSypiIhHNUh3.jpg" group-title="ESTRENOS 2023",M3GAN (2022)
+http://home-playtv.com:80/movie/Franciscoca2/SFZWC/466805.mkv
+#EXTINF:-1 tvg-name="Narvik (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mraEP5dvnZB94EF7qzG3m7KXyIC.jpg" group-title="ESTRENOS 2023",Narvik (2022)
+http://home-playtv.com:80/movie/Franciscoca2/SFZWC/466806.mkv
+#EXTINF:-1 tvg-name="Gran tiburón blanco (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rR5CVAPNYTAN9ivapgnDtyQGpPl.jpg" group-title="ESTRENOS 2023",Gran tiburón blanco (2022)
+http://home-playtv.com:80/movie/Franciscoca2/SFZWC/466807.mkv
+#EXTINF:-1 tvg-name="Desaparición en la calle 7 (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/viAr08wTmCV40WUVFNuhOPSSFZK.jpg" group-title="ESTRENOS 2023",Desaparición en la calle 7 (2010)
+http://home-playtv.com:80/movie/Franciscoca2/SFZWC/466808.mkv
+#EXTINF:-1 tvg-name="Detective Knight: Última misión (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1168a2gKGWYSfiCkWtz4oDl5rJP.jpg" group-title="ESTRENOS 2023",Detective Knight: Última misión (2023)
+http://home-playtv.com:80/movie/Franciscoca2/SFZWC/466809.mkv
+#EXTINF:-1 tvg-name="Hay algo mal con los niños (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Amljhv1AoWvudjwOKurDz8JL2Ej.jpg" group-title="ESTRENOS 2023",Hay algo mal con los niños (2023)
+http://home-playtv.com:80/movie/Franciscoca2/SFZWC/466810.mkv
+#EXTINF:-1 tvg-name="Legiones (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjensvHWkOHtBO114A8sXxji1gu.jpg" group-title="ESTRENOS 2023",Legiones (2022)
+http://home-playtv.com:80/movie/Franciscoca2/SFZWC/466811.mkv
+#EXTINF:-1 tvg-name="Navidad en el paraíso (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUErzXNagefPT6fZFYMwpbymwcv.jpg" group-title="ESTRENOS 2023",Navidad en el paraíso (2022)
+http://home-playtv.com:80/movie/Franciscoca2/SFZWC/466812.mkv
+#EXTINF:-1 tvg-name="Legado de sangre (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zTQ2o0gzVZOblt6KlV3bSKg0y8z.jpg" group-title="ESTRENOS 2023",Legado de sangre (2023)
+http://home-playtv.com:80/movie/Franciscoca2/SFZWC/466813.mkv
+#EXTINF:-1 tvg-name="X (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pCSBPHUPia93rppHF3UX4cLQ9M.jpg" group-title="ESTRENOS 2023",X (2022)
+http://home-playtv.com:80/movie/Franciscoca2/SFZWC/466814.mkv
+#EXTINF:-1 tvg-name="Darby y los espíritus (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j6de6xJIJnnsyAqtxL603JKy1PG.jpg" group-title="ESTRENOS 2023",Darby y los espíritus (2022)
+http://home-playtv.com:80/movie/Franciscoca2/SFZWC/467197.mkv
+#EXTINF:-1 tvg-name="La familia tiene un precio (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gx8ntnkuvPMDCt2qtr9YMDXjLAx.jpg" group-title="ESTRENOS 2023",La familia tiene un precio (2022)
+http://home-playtv.com:80/movie/Franciscoca2/SFZWC/467198.mkv
+#EXTINF:-1 tvg-name="Teen Wolf: La película (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/foeDbOTaAYk5jfbsdnFyVzwLH0p.jpg" group-title="ESTRENOS 2023",Teen Wolf: La película (2023)
+http://home-playtv.com:80/movie/Franciscoca2/SFZWC/467199.mkv
+#EXTINF:-1 tvg-name="Historia de una traición (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3deptzxNrXNVQYRoLCv1aFxsSor.jpg" group-title="ESTRENOS 2023",Historia de una traición (2021)
+http://home-playtv.com:80/movie/Franciscoca2/SFZWC/467200.mkv
+#EXTINF:-1 tvg-name="La vida en juego (2006)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zL2Zu78RmTV25BNxzbQANSWNbrm.jpg" group-title="ESTRENOS 2023",La vida en juego (2006)
+http://home-playtv.com:80/movie/Franciscoca2/SFZWC/467201.mkv
+
